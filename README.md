@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="mailto:example@gmail.comanolejnikov6@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://github.com/mushdid" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 8px"></a></p>
+<p align="center"><a href="mailto:anolejnikov6@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://github.com/mushdid" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 8px"></a></p>
 
  **<h3 align="left">My socials</h3>**
 
