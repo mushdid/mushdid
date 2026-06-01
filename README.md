@@ -17,7 +17,7 @@
 
  **<h3 align="left">My socials</h3>**
 
-
+<a href="https://ru.pinterest.com/shiroyychh/_pins/" target="_blank">Pinterest</a>
 
 **<h3 align="left">Rapid Fire</h3>**
 
