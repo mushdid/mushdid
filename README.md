@@ -23,7 +23,7 @@
 
 - 💼 I'm currently working on: **💻 Nowhere**
 - 🌱 I'm currently learning: **📚 Some different stuff**
-- 📂 Portfolio: **<a href="portfolio" target="_blank">portfolio</a>**
+- 📂 Portfolio: **<a href="https://protfolio.hostfl.ru/reswinthfoto.pdf" target="_blank">portfolio</a>**
 
  **<h3 align="left">Skills</h3>**
 
