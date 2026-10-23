@@ -1,4 +1,4 @@
-![👋 Hi, my name is sh](https://github.com/mushdid/mushdid/blob/main/github-header-banner.png?raw=true)
+![shiroy**](https://github.com/mushdid/mushdid/blob/main/github-header-banner.png?raw=true)
 
 ![Profile views](https://komarev.com/ghpvc/?username=mushdid&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -6,7 +6,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Yn
+        Shiroy
       </h1>
     </summary>
   </ul>
@@ -16,14 +16,6 @@
 <p align="center"><a href="mailto:anolejnikov6@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://github.com/mushdid" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 8px"></a></p>
 
  **<h3 align="left">My socials</h3>**
-
-<a href="https://ru.pinterest.com/shiroyychh/_pins/" target="_blank">Pinterest</a>
-
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **💻 Nowhere**
-- 🌱 I'm currently learning: **📚 Some different stuff**
-- 📂 Portfolio: **<a href="https://protfolio.hostfl.ru/reswinthfoto.pdf" target="_blank">portfolio</a>**
 
  **<h3 align="left">Skills</h3>**
 
